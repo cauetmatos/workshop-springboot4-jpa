@@ -1,5 +1,5 @@
 Workshop Spring Boot 3 + JPA
-Este projeto é uma API REST desenvolvida durante um workshop para praticar o desenvolvimento com Java e o ecossistema Spring Boot. O foco principal é a persistência de dados utilizando JPA/Hibernate e o gerenciamento de usuários.
+Este projeto é uma API REST desenvolvida apenas para praticar o desenvolvimento com Java e o ecossistema Spring Boot. O foco principal é a persistência de dados utilizando JPA/Hibernate e o gerenciamento de usuários.
 
 🚀 Tecnologias Utilizadas
 Java 17/21 (conforme configurado no ambiente).
